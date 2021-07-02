@@ -1,0 +1,68 @@
+{
+  "name": "sushilburagute.github.io",
+  "private": true,
+  "description": "My personal website made using Gatsby",
+  "version": "2.0.0",
+  "author": "Sushil Buragute",
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@tailwindcss/typography": "^0.1.4",
+    "gatsby": "^2.29.2",
+    "gatsby-image": "^2.8.0",
+    "gatsby-plugin-env-variables": "^1.0.2",
+    "gatsby-plugin-google-analytics": "^2.8.0",
+    "gatsby-plugin-manifest": "^2.9.1",
+    "gatsby-plugin-mdx": "^1.7.1",
+    "gatsby-plugin-offline": "^3.7.1",
+    "gatsby-plugin-postcss": "^2.3.13",
+    "gatsby-plugin-react-helmet": "^3.7.0",
+    "gatsby-plugin-robots-txt": "^1.5.5",
+    "gatsby-plugin-sharp": "^2.11.2",
+    "gatsby-plugin-sitemap": "^2.9.0",
+    "gatsby-remark-autolink-headers": "^2.8.0",
+    "gatsby-remark-images": "^3.8.1",
+    "gatsby-remark-prismjs": "^3.10.0",
+    "gatsby-source-filesystem": "^2.8.1",
+    "gatsby-transformer-sharp": "^2.9.0",
+    "prismjs": "^1.22.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@storybook/addon-a11y": "^5.3.21",
+    "@storybook/addon-actions": "^6.1.20",
+    "@storybook/addon-knobs": "^5.3.21",
+    "@storybook/addon-links": "^5.3.21",
+    "@storybook/addons": "^5.3.21",
+    "@storybook/react": "^5.3.21",
+    "babel-loader": "^8.2.2",
+    "cross-env": "^7.0.3",
+    "gh-pages": "^3.1.0",
+    "prettier": "2.0.5",
+    "storybook-dark-mode": "^0.6.1",
+    "tailwindcss": "^1.9.6"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "cross-env GATSBY_GRAPHQL_IDE=playground gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sushilburagute/sushilburagute.github.io.git"
+  }
+}
