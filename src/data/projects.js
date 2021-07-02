@@ -1,8 +1,8 @@
 export default [
   {
-    slug: "https://badvrmaklu.herokuapp.com",
-    title: "Basic Zoom Clone",
-    description: "A basic Zoom Clone App based on socket.io and WebRTC.",
+    slug: "https://video-audio-call-sumanth.herokuapp.com",
+    title: "Video Call",
+    description: "A basic video call application based on socket.io and WebRTC.",
     year: "2021",
     links: [
       {
@@ -11,7 +11,7 @@ export default [
       },
       {
         label: "Demo",
-        url: "https://badvrmaklu.herokuapp.com",
+        url: "https://video-audio-call-sumanth.herokuapp.com",
       },
     ],
   }

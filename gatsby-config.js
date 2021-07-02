@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Hemanth H S`,
-    description: `Hey I'm Hemanth H S⚡ I'm a Web Dev working my way up the ladder in ReactJS and the MERN stack.`,
-    author: `Hemanth H S`,
+    title: `Sumanth S`,
+    description: `Hey I'm Sumanth S⚡ I'm a Web Dev working my way up the ladder in ReactJS and the MERN stack.`,
+    author: `Sumanth S`,
     siteUrl:
       process.env.DEV_ENV === 1
         ? `https://hemanthx.netlify.app/`
@@ -41,8 +41,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Hemanth H S`,
-        short_name: `Hemanth H S`,
+        name: `Sumanth S`,
+        short_name: `Sumanth S`,
         start_url: `/`,
         background_color: `#2d3748`,
         theme_color: `#81E6D9`,

@@ -25,13 +25,13 @@ const Footer = _ => {
               className="text-xs tracking-wider self-center md:self-end"
               aria-label="Copyright"
             >
-              © 2021 Hemanth H S. All Rights Reserved.
+              © 2021 Sumanth S. All Rights Reserved.
             </span>
             <div className="flex flex-row items-center space-x-4 justify-center md:justify-end">
               <span>
                 <a
                   href="mailto:codetastic101@gmail.com"
-                  aria-label="Email iam.hemanthhs@gmail.com"
+                  aria-label="Email sumanths1245@gmail.com"
                   title="Email"
                 >
                   <svg
