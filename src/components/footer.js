@@ -30,7 +30,7 @@ const Footer = _ => {
             <div className="flex flex-row items-center space-x-4 justify-center md:justify-end">
               <span>
                 <a
-                  href="mailto:codetastic101@gmail.com"
+                  href="mailto:sumanths1245@gmail.com"
                   aria-label="Email sumanths1245@gmail.com"
                   title="Email"
                 >
@@ -47,7 +47,7 @@ const Footer = _ => {
               </span>
               <span>
                 <a
-                  href="https://github.com/iamhemanthhs"
+                  href="https://github.com/sumanths1245"
                   aria-label="Visit GitHub profile"
                   title="Visit GitHub profile"
                   target="_blank"
@@ -66,7 +66,7 @@ const Footer = _ => {
               </span>
               <span>
                 <a
-                  href="https://in.linkedin.com/in/hemanthhemasurya"
+                  href="https://www.linkedin.com/in/sumanth-s1245/"
                   aria-label="Visit LinkedIn profile"
                   title="Visit LinkedIn profile"
                   target="_blank"
@@ -85,7 +85,7 @@ const Footer = _ => {
               </span>
               <span>
                 <a
-                  href="https://twitter.com/theblizrdx"
+                  href="https://twitter.com/Sumanth82942930"
                   aria-label="Visit Twitter profile"
                   title="Visit Twitter profile"
                   target="_blank"
@@ -104,7 +104,7 @@ const Footer = _ => {
               </span>
               <span>
                 <a
-                  href="https://instagram.com/theblizrdx"
+                  href="https://www.instagram.com/floki.__.music/"
                   aria-label="Visit Instagram profile"
                   title="Visit Instagram profile"
                   target="_blank"

@@ -1,7 +1,7 @@
 export default [
   {
     slug: "https://video-audio-call-sumanth.herokuapp.com",
-    title: "Video Call",
+    title: "Video and Audio Call Application",
     description: "A basic video call application based on socket.io and WebRTC.",
     year: "2021",
     links: [

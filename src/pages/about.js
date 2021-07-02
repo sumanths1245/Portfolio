@@ -12,7 +12,7 @@ const About = _ => {
         <article className="prose">
           <h2>About Me</h2>
           <p>
-            Hello, my name is Hemanth and I’m a Developer. 
+            Hello, my name is Sumanth and I’m a Developer. 
             I've always obsessed with the idea of programs, because they did almost everything that I can wish them for. That’s when I decided to
             follow my passion and take a leap in this field! 
           </p>

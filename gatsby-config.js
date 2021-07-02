@@ -5,10 +5,10 @@ module.exports = {
     author: `Sumanth S`,
     siteUrl:
       process.env.DEV_ENV === 1
-        ? `https://hemanthx.netlify.app/`
-        : `https://hemanthx.netlify.app/`,
+        ? `https://sumanthx.netlify.app/`
+        : `https://sumanthx.netlify.app/`,
     image: `/images/og-card.png`,
-    twitterUsername: `@theblizrdx`,
+    twitterUsername: `@Sumanth82942930`,
   },
   plugins: [
     {
@@ -56,8 +56,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: "https://hemanthx.netlify.app/",
-        sitemap: "https://hemanthx.netlify.app/sitemap.xml",
+        host: "https://sumanthx.netlify.app/",
+        sitemap: "https://sumanthx.netlify.app/sitemap.xml",
         policy: [{ userAgent: "*", allow: "/" }],
         env: {
           development: {

@@ -1,7 +1,7 @@
-# [hemanthx.netlify.app](https://hemanthx.netlify.app)
+# [sumanthx.netlify.app](https://sumanthx.netlify.app)
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/theblizrdx?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Sumanth82942930?style=social)
 
 My personal website running on Gatsby.
 
