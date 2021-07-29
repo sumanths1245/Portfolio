@@ -23,3 +23,4 @@ My personal website running on Gatsby.
 This project is open source and available under the [MIT License](LICENSE)
 
 ---
+It has various projects that I have worked on and links to live hosted applications that I have worked on.
